@@ -1,0 +1,7 @@
+﻿  010Editor_Keygen_crakerDlg.cpp
+D:\PJ\010Editor_Keygen_craker\010Editor_Keygen_craker\010Editor_Keygen_crakerDlg.cpp(316,19): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+D:\PJ\010Editor_Keygen_craker\010Editor_Keygen_craker\010Editor_Keygen_crakerDlg.cpp(320,12): warning C4309: “=”: 截断常量值
+D:\PJ\010Editor_Keygen_craker\010Editor_Keygen_craker\010Editor_Keygen_crakerDlg.cpp(329,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PJ\010Editor_Keygen_craker\010Editor_Keygen_craker\010Editor_Keygen_crakerDlg.cpp(345,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\PJ\010Editor_Keygen_craker\010Editor_Keygen_craker\010Editor_Keygen_crakerDlg.cpp(369,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  010Editor_Keygen_craker.vcxproj -> D:\PJ\010Editor_Keygen_craker\x64\Debug\010Editor_Keygen_craker.exe
